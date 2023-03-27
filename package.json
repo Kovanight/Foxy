@@ -38,6 +38,7 @@
   ],
   "homepage": "https://github.com/FoxyTheBot/Foxy#readme",
   "dependencies": {
-    "discordeno": "^18.0.1"
+    "discordeno": "^18.0.1",
+    "typescript": "^5.0.2"
   }
 }
